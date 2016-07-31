@@ -1,0 +1,9 @@
+@import url(reset.css);
+
+body {
+margin: 232px;
+}
+
+.header {
+	background-image: url (images/menu_bg.png);
+}
